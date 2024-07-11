@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server"
+    "start": "nodemon --env-file=.env server2"
   },
   "author": "",
   "license": "ISC",
